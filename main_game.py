@@ -10,6 +10,7 @@ pygame.display.set_caption("martian game")
 
 clock = pygame.time.Clock()
 
+test_sur = pygame.Surface((10,10))
 while True:
     clock.tick(FPS)
 
